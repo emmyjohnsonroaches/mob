@@ -22,6 +22,24 @@ useHead({
       name: "keywords",
       content: "Emmy Bianca Johnson, 台灣外籍老師, 違約, 契約糾紛, 借錢不還",
     },
+    { property: "og:title", content: "揭露外籍教師爭議｜台灣人善良不該被濫用" },
+    {
+      property: "og:description",
+      content: "從租屋違約、借錢不還，到翻臉封鎖協助者，完整紀錄真實案例。",
+    },
+    { property: "og:type", content: "website" },
+    { property: "og:url", content: "https://mob-theta.vercel.app/" },
+    {
+      property: "og:image",
+      content: "https://mob-theta.vercel.app/og-image.png",
+    },
+
+    { name: "twitter:card", content: "summary_large_image" },
+    {
+      name: "twitter:image",
+      content: "https://mob-theta.vercel.app/og-image.png",
+    },
   ],
+  title: "台灣善意被踐踏：Emmy Bianca Johnson 外籍教師爭議",
 });
 </script>

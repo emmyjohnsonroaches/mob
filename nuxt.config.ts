@@ -11,7 +11,7 @@ export default defineNuxtConfig({
    modules: ['@nuxtjs/i18n',  '@nuxtjs/sitemap'],
 
   site: { 
-    url: 'https://mob-emmyjohnsonroaches-projects.vercel.app', 
+    url: 'https://mob-theta.vercel.app/', 
     name: 'Emmy Bianca Johnson 外籍教師爭議事件' ,
     autoLastmod: true, // 自動加入 <lastmod>
     defaults: {
@@ -38,12 +38,12 @@ export default defineNuxtConfig({
         { property: 'og:title', content: '揭露外籍教師誠信爭議｜Emmy Bianca Johnson' },
         { property: 'og:description', content: '台灣的國際教育制度是否該重新檢討？一位南非女教師的真實事件紀錄。' },
         { property: 'og:type', content: 'website' },
-        { property: 'og:url', content: 'https://mob-emmyjohnsonroaches-projects.vercel.app/' },
-        { property: 'og:image', content: 'https://mob-emmyjohnsonroaches-projects.vercel.app/og-image.png' }, 
+        { property: 'og:url', content: 'https://mob-theta.vercel.app/' },
+        { property: 'og:image', content: 'https://mob-theta.vercel.app/og-image.png' }, 
         { name: 'twitter:card', content: 'summary_large_image' }
       ],
       link: [
-        { rel: 'canonical', href: 'https://mob-emmyjohnsonroaches-projects.vercel.app/' }
+        { rel: 'canonical', href: 'https://mob-theta.vercel.app/' }
       ]
     }
   }
