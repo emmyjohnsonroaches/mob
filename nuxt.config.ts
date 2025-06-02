@@ -33,7 +33,7 @@ export default defineNuxtConfig({
     head: {
       title: '台灣善意被踐踏：Emmy Bianca Johnson 外籍教師爭議事件',
       meta: [
-        { name: 'google-site-verification', content: 'RZ8KmPL9XTnS8Z6K_xAIcX6GNysuaYHxAEcfmMD5XKI' },
+        { name: 'google-site-verification', content: 's2XDtGfHTkkfNUitZt_6iqqBQ_Dv79cUR1QUdah8RAg' },
         { name: 'description', content: '一位南非外籍教師在台灣的誠信紀錄揭露，挑戰社會對「外師」的盲目信任。' },
         { property: 'og:title', content: '揭露外籍教師誠信爭議｜Emmy Bianca Johnson' },
         { property: 'og:description', content: '台灣的國際教育制度是否該重新檢討？一位南非女教師的真實事件紀錄。' },
