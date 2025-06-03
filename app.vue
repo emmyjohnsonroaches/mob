@@ -76,6 +76,38 @@
 
 <script setup lang="ts">
 import Emmy from "@/assets/emmybiancajohnsoncreditproblem.png";
+definePageMeta({
+  title: "Emmy Johnson 外籍教師爭議｜踐踏台灣人善良｜EmmyBCJ",
+  meta: [
+    {
+      name: "description",
+      content:
+        "深入揭露外籍教師 Emerald Bianca Carmelita Johnson（Emmy Johnson、EmmyBCJ）與台灣仲介、房東間的合約糾紛與爭議事件與友人借款糾紛。",
+    },
+    {
+      name: "keywords",
+      content:
+        "EmmyBCJ, Emmy Johnson, Emerald Bianca Carmelita Johnson, 補教爭議, 外籍教師糾紛, 合約爭議, 借錢不還, 違約搬家",
+    },
+    {
+      property: "og:title",
+      content: "Emmy Johnson 外籍教師爭議｜踐踏台灣人善良｜EmmyBCJ",
+    },
+    {
+      property: "og:description",
+      content:
+        "揭露外籍教師 Emerald Bianca Carmelita Johnson（Emmy Johnson、EmmyBCJ）與台灣仲介、房東間的合約糾紛與爭議事件與友人借款糾紛。",
+    },
+    {
+      property: "og:image",
+      content: "https://mob-theta.vercel.app/og-image.png", // 你可自設圖片
+    },
+    {
+      property: "og:url",
+      content: "https://mob-theta.vercel.app",
+    },
+  ],
+});
 </script>
 
 <style scoped>
